@@ -1,3 +1,3 @@
-# practise_app
+# Todo App using Flutter Riverpod
 
-A new Flutter project.
+This is a Simple Todo app with Riverpod Statemanagement. 
